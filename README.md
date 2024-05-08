@@ -9,3 +9,5 @@ Give executable permissions (if necessary) to the prepare.scp script and run it:
 $  chmod +x prepare.scp 
 
 $  ./prepare.scp
+
+The final folder contains a couple of examples and the source code.
