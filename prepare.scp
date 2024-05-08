@@ -3,3 +3,4 @@
 tar -xvzf Displaced-Molecule.tar.gz
 mv Displaced-Molecule/* .
 rm -rf Displaced-Molecule Displaced-Molecule.tar.gz
+rm prepare.scp
