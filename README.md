@@ -7,4 +7,5 @@ Download the code in the Home directory and enter in the downloaded folder "Disp
 Give executable permissions (if necessary) to the prepare.scp script and run it: 
 
 $  chmod +x prepare.scp 
+
 $  ./prepare.scp
